@@ -20,6 +20,14 @@ GitHub related [topic](https://github.com/topics/depth-prediction)
   >
   > [Code](https://github.com/iro-cp/FCRN-DepthPrediction)
 
+* 2017 Monocular Depth Estimation with Hierarchical Fusion of Dilated CNNs and Soft-Weighted-Sum Inference
+
+  > Authors: Bo Li, Yuchao Dai, Mingyi He
+  >
+  > propose a deep end-to-end learning framework to tackle these challenges, which learns the direct mapping from a color image to the corresponding depth map
+  >
+  >
+
 * 2017 Unsupervised monocular depth estimation with left-right consistency
 
   > Authors: C. Godard, O. Mac Aodha, and G. J. Brostow.
@@ -57,13 +65,6 @@ GitHub related [topic](https://github.com/topics/depth-prediction)
   >
   > present deep attention-based classification (DABC) network for robust single image depth prediction
 
-* 2017 Monocular Depth Estimation with Hierarchical Fusion of Dilated CNNs and Soft-Weighted-Sum Inference
-
-  > Authors: Bo Li, Yuchao Dai, Mingyi He
-  >
-  > propose a deep end-to-end learning framework to tackle these challenges, which learns the direct mapping from a color image to the corresponding depth map
-  >
-  >
 
 * Other Project
   * [**MonoDepth-FPN-PyTorch**](https://github.com/xanderchf/MonoDepth-FPN-PyTorch)
